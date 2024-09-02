@@ -1,0 +1,25 @@
+﻿@model List<ApiMovieViewModel>
+
+@{
+	Layout = null;
+}
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+
+<div class="row p-5">
+	@foreach (var item in Model)
+	{
+		<div class="col-2 pt-3">
+			<div class="card">
+				<img class="card-img-top" src="@item.image" alt="Card image cap">
+				<div class="card-body">
+					<h5 class="card-title">@item.title</h5>
+					<p class="card-text">Puan: @item.rating</p>
+					<p class="card-text"><small class="text-muted">@item.description</small></p>
+				</div>
+			</div>
+		</div>
+	}
+</div>
+

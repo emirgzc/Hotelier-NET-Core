@@ -1,0 +1,15 @@
+C:\Users\emirgzc\source\repos\HotelProjectForApi\ApiConsume\HotelProject.EntityLayer\bin\Debug\net5.0\HotelProject.EntityLayer.deps.json
+C:\Users\emirgzc\source\repos\HotelProjectForApi\ApiConsume\HotelProject.EntityLayer\bin\Debug\net5.0\HotelProject.EntityLayer.runtimeconfig.json
+C:\Users\emirgzc\source\repos\HotelProjectForApi\ApiConsume\HotelProject.EntityLayer\bin\Debug\net5.0\HotelProject.EntityLayer.runtimeconfig.dev.json
+C:\Users\emirgzc\source\repos\HotelProjectForApi\ApiConsume\HotelProject.EntityLayer\bin\Debug\net5.0\HotelProject.EntityLayer.dll
+C:\Users\emirgzc\source\repos\HotelProjectForApi\ApiConsume\HotelProject.EntityLayer\bin\Debug\net5.0\HotelProject.EntityLayer.pdb
+C:\Users\emirgzc\source\repos\HotelProjectForApi\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\HotelProject.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\emirgzc\source\repos\HotelProjectForApi\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\HotelProject.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirgzc\source\repos\HotelProjectForApi\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\HotelProject.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\emirgzc\source\repos\HotelProjectForApi\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\HotelProject.EntityLayer.AssemblyInfo.cs
+C:\Users\emirgzc\source\repos\HotelProjectForApi\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\HotelProject.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\emirgzc\source\repos\HotelProjectForApi\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\HotelProject.EntityLayer.dll
+C:\Users\emirgzc\source\repos\HotelProjectForApi\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\refint\HotelProject.EntityLayer.dll
+C:\Users\emirgzc\source\repos\HotelProjectForApi\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\HotelProject.EntityLayer.pdb
+C:\Users\emirgzc\source\repos\HotelProjectForApi\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\HotelProject.EntityLayer.genruntimeconfig.cache
+C:\Users\emirgzc\source\repos\HotelProjectForApi\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\ref\HotelProject.EntityLayer.dll
